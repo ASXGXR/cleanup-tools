@@ -6,7 +6,7 @@ Cleanup Tools is a Blender add-on designed to enhance your workflow in the Shade
 
 - **Center Nodes**: Automatically centers all nodes in the Shader Editor to improve visibility and organization.
 - **Remove Unused Resources**: Cleans up your Blender file by removing any unused materials and images, helping to reduce clutter and save memory.
-- **Find Nodes**: Allows you to quickly focus the Shader Editor view on the first node in the node tree, making it easier to locate specific nodes in complex setups.
+- **Find Nodes**: Allows you to quickly focus the Shader Editor view on your node tree, making it possible to locate your nodes when lost.
 
 ## Installation
 
@@ -31,15 +31,7 @@ Once installed, the add-on can be accessed in the Shader Editor under the `Tools
 
 ## Support
 
-If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the GitHub repository or contact the author directly.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Acknowledgments
-
-Special thanks to the Blender community for the continuous support and feedback that make add-ons like this possible.
+If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the GitHub repository.
 
 ---
 
